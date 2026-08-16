@@ -1,20 +1,15 @@
 {
   "name": "ewastekochi",
   "version": "1.0.0",
-  "description": "EWaste Kochi — Kerala's #1 Certified E-Waste Recycling & ITAD | Programmatic SEO Platform",
   "private": true,
   "type": "module",
+  "description": "EWaste Kochi — Astro programmatic SEO platform for e-waste recycling and IT asset disposition information in Kerala.",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "deploy": "astro build && wrangler deploy",
-    "astro": "astro",
-    "generate": "node scripts/generate_all.js",
-    "sitemap": "node scripts/sitemap_generator.js"
+    "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.0.0",
     "@astrojs/sitemap": "^3.2.0",
     "astro": "^5.7.0"
   },

@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /_astro/
 
-Sitemap: https://ewastekochi.com/sitemap-index.xml
+Sitemap: https://ewastekochi.com/sitemap.xml
